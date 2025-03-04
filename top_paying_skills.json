@@ -1,0 +1,102 @@
+[
+  {
+    "skills": "linux",
+    "avg_salary": "165000"
+  },
+  {
+    "skills": "aws",
+    "avg_salary": "165000"
+  },
+  {
+    "skills": "mongo",
+    "avg_salary": "165000"
+  },
+  {
+    "skills": "hadoop",
+    "avg_salary": "133750"
+  },
+  {
+    "skills": "nosql",
+    "avg_salary": "131750"
+  },
+  {
+    "skills": "qlik",
+    "avg_salary": "111175"
+  },
+  {
+    "skills": "bigquery",
+    "avg_salary": "111175"
+  },
+  {
+    "skills": "snowflake",
+    "avg_salary": "111175"
+  },
+  {
+    "skills": "jira",
+    "avg_salary": "111175"
+  },
+  {
+    "skills": "sas",
+    "avg_salary": "111175"
+  },
+  {
+    "skills": "windows",
+    "avg_salary": "109440"
+  },
+  {
+    "skills": "airflow",
+    "avg_salary": "109440"
+  },
+  {
+    "skills": "azure",
+    "avg_salary": "108700"
+  },
+  {
+    "skills": "spark",
+    "avg_salary": "107250"
+  },
+  {
+    "skills": "flow",
+    "avg_salary": "106838"
+  },
+  {
+    "skills": "tableau",
+    "avg_salary": "105408"
+  },
+  {
+    "skills": "looker",
+    "avg_salary": "103711"
+  },
+  {
+    "skills": "scikit-learn",
+    "avg_salary": "102500"
+  },
+  {
+    "skills": "unix",
+    "avg_salary": "98500"
+  },
+  {
+    "skills": "matplotlib",
+    "avg_salary": "98500"
+  },
+  {
+    "skills": "c++",
+    "avg_salary": "98500"
+  },
+  {
+    "skills": "rust",
+    "avg_salary": "98500"
+  },
+  {
+    "skills": "git",
+    "avg_salary": "97944"
+  },
+  {
+    "skills": "python",
+    "avg_salary": "94220"
+  },
+  {
+    "skills": "sql",
+    "avg_salary": "91422"
+  }
+]
